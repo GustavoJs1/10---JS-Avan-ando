@@ -1,1 +1,5 @@
-# 10---JS-Avan-ando
+# #10 - JS: Avançando
+
+### Nome aluno(a)
+
+Gustavo Jardim Silva
